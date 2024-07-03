@@ -1,2 +1,1 @@
-# ml-a-to-z
-Machine Learning A-Z
+# Machine Learning A-Z
